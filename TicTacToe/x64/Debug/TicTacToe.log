@@ -1,0 +1,6 @@
+﻿  TicTacToe.cpp
+C:\Users\user1\Desktop\Ness H.W\TicTacToe\TicTacToe\TicTacToe.cpp(61): warning C4172: returning address of local variable or temporary: ArrIndex
+C:\Users\user1\Desktop\Ness H.W\TicTacToe\TicTacToe\TicTacToe.cpp(78): warning C4172: returning address of local variable or temporary: ArrIndex
+C:\Users\user1\Desktop\Ness H.W\TicTacToe\TicTacToe\TicTacToe.cpp(94): warning C4172: returning address of local variable or temporary: ArrIndex
+C:\Users\user1\Desktop\Ness H.W\TicTacToe\TicTacToe\TicTacToe.cpp(104): warning C4172: returning address of local variable or temporary: ArrIndex
+  TicTacToe.vcxproj -> C:\Users\user1\Desktop\Ness H.W\TicTacToe\x64\Debug\TicTacToe.exe
